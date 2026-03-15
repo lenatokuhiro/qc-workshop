@@ -1,0 +1,12 @@
+qiskit
+matplotlib 
+numpy 
+pylatexenc 
+qiskit-aer
+qrisp==0.6
+qiskit-algorithms
+plotly
+pandas
+dwave-tabu
+pennylane
+noisyopt
