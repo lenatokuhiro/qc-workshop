@@ -10,3 +10,4 @@ pandas
 dwave-tabu
 pennylane
 noisyopt
+sympy
